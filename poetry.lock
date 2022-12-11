@@ -1,0 +1,15 @@
+[[package]]
+name = "utils"
+version = "1.0.1"
+description = "A grab-bag of utility functions and objects"
+category = "main"
+optional = false
+python-versions = ">=3.6"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "c229631bb3063a781526cdd2f17fc901501582d4bc49a1d84b19135d72ba624b"
+
+[metadata.files]
+utils = []
